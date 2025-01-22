@@ -20,7 +20,20 @@ public class Main {
 
         // updateUser(session,3);
 
-        deleteUser(session,4);
+        // deleteUser(session,4);
+
+        // findUserHql(factory,session);
+
+        // getRecordById(factory,session);
+
+        // getRecords(session);
+
+        // getMaxSalary(session);
+
+        // getMaxSalaryGroupBy(session);
+
+        namedQueryExample(session);
 
     }
+
 }
